@@ -11,4 +11,8 @@ webpages for entered search terms.
 Example Usage: ./url_search.sh urlFile.txt searchWord1 searchWord2
 
 
+queryProcess.c:
 
+Part of the Query Engine from the TinySearchEngine project.
+Also included is query.h, the corresponding header file.
+query.pdf is the design and implementation spec for the Query Engine
